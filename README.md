@@ -1,6 +1,7 @@
 # 👋 Olá! Eu sou a Isis
 
 🎓 Graduanda em Ciência da Informação na UFSC;
+
 🚀 Desenvolvendo projetos próprios com foco em análise, inteligência e automação;
 
 ---
