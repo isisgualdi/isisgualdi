@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Olá! Eu sou a Isis
 
-<!--
-**isisgualdi/isisgualdi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Graduanda em Ciência da Informação na UFSC;
+🚀 Desenvolvendo projetos próprios com foco em análise, inteligência e automação;
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias e Ferramentas
+
+- **Linguagens:** Python, SQL
+- **Bibliotecas:** pandas, numpy, matplotlib, seaborn, scikit-learn
+- **Ferramentas:** Power BI, Jupyter Notebook, Streamlit, Git & GitHub
+- **Bancos de dados:** PostgreSQL, MongoDB
+- **Outros:** Web scraping, APIs, pipeline RAG, LangChain, FAISS
+
+---
+
+
+## 📌 Em andamento
+
+- Repositório de conteúdos didáticos sobre análise de dados (`data-learning-lab`)
+- Estudo sobre RAG Pipeline (`rag-pipeline`)
+
+---
+
+## 💼 Contato
+
+- 🌐 [LinkedIn](https://www.linkedin.com/in/seu-perfil)
+- 📧 isisgualdii@gmail.com
+
