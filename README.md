@@ -2,13 +2,13 @@
 
 🎓 Graduanda em Ciência da Informação na UFSC;
 
-🚀 Desenvolvendo projetos próprios com foco em análise, inteligência e automação;
+🚀 Desenvolvendo projetos próprios com foco em análise e inteligência;
 
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
 
-- **Linguagens:** Python, SQL
+- **Linguagens:** Python, React, Node.js
 - **Bibliotecas:** pandas, numpy, matplotlib, seaborn, scikit-learn
 - **Ferramentas:** Power BI, Jupyter Notebook, Streamlit, Git & GitHub
 - **Bancos de dados:** PostgreSQL, MongoDB
@@ -19,8 +19,7 @@
 
 ## 📌 Em andamento
 
-- Repositório de conteúdos didáticos sobre análise de dados (`data-learning-lab`)
-- Estudo sobre RAG Pipeline (`rag-pipeline`)
+- Desenvolvimento de um sistema web para centralizar ferramentas de segurança e privacidade 
 
 ---
 
