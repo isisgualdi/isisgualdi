@@ -24,5 +24,4 @@ I’m building a public learning journey through writing, code, and content.
 - 📊 Learning **Data Analysis for Psychology**
 - 🧬 Exploring **Cognitive & Computational Neuroscience**
 - ✍️ Writing about science and philosophy on my [Substack](https://isisgualdi.substack.com/)
-- 📷 Sharing study routine on [Instagram]([https://](https://www.instagram.com/thisispsisis/))
-ri
+
